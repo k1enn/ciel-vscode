@@ -1,4 +1,5 @@
-# ciel README
+# ciel theme
+![theme](theme.jpeg)
 
 ## Working with Markdown
 
