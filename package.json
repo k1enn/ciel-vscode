@@ -1,14 +1,37 @@
 {
   "name": "ciel",
   "displayName": "ciel",
-  "description": "Brutalism theem",
+  "description": "A brutalist grayscale theme for VS Code.",
   "version": "0.0.1",
+  "publisher": "k1enn",
+  "icon": "icon.png",
+  "license": "GPL-3.0-only",
   "engines": {
     "vscode": "^1.125.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "brutalism",
+    "brutalist",
+    "grayscale",
+    "monochrome",
+    "dark"
+  ],
+  "galleryBanner": {
+    "color": "#0D0D0D",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k1enn/ciel-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/k1enn/ciel-vscode/issues"
+  },
+  "homepage": "https://github.com/k1enn/ciel-vscode#readme",
   "contributes": {
     "themes": [
       {
