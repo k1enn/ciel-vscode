@@ -1,0 +1,21 @@
+{
+  "name": "ciel",
+  "displayName": "ciel",
+  "description": "Brutalism theem",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ciel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ciel-color-theme.json"
+      }
+    ]
+  }
+}
